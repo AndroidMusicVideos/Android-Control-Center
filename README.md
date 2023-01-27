@@ -1,2 +1,1 @@
-# Android-Control-Center
-This is a program for Arduino build with C++.  
+[README.txt](https://github.com/AndroidMusicVideos/Android-Control-Center/files/10522370/README.txt)
