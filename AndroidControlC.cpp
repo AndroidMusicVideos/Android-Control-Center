@@ -1,4 +1,13 @@
 #include <Servo.h>
+#include <Servo.h>
+
+int main() {
+  Servo servo;
+  servo.attach(9);
+  servo.write(180);
+  ...
+  return 0;
+}
 
 Servo baseServo;
 Servo shoulderServo;
