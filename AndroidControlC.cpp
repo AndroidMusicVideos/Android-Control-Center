@@ -1,5 +1,4 @@
 #include <Servo.h.cpp>
-#include <Servo.h.cpp>
 
 int main() {
   Servo servo;
