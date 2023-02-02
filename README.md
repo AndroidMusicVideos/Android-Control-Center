@@ -1,5 +1,7 @@
-README 
-[Developed by North Point South]
+#  Android Control Center
+
+
+
 https://www.github.com/AndroidMusicVideos
 This ReadMe contains operation instructions and saftey warnings.
 This program has two versions.  The Arduino version, and the C# version.  This is the Arduino version.
@@ -24,4 +26,6 @@ Make sure that the area is clear of any objects the arms could get caught on.
 -----------------------------------------------------------------------------------------------------------------
 Thank you for downloading this program, I really appreciate it!
 You may use this software and/or code however you want.
+
+
 
